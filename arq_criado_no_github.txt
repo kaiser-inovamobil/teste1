@@ -1,1 +1,15 @@
 teste teste
+alterado aqui no view_stream
+
+
+
+
+fasdfasf
+astd-data-table-cell [numeric]="falsedfsadf
+sa
+dfsd
+afsa
+df
+sadf
+sad
+fas"
