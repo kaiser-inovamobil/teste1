@@ -7,3 +7,6 @@ editei esse arquivo no VS CODE
 
 
 alterado novamente no GIT_HUB
+
+AGORA EDITA NOVAMENTE NO VSCODE
+
